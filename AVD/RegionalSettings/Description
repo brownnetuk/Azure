@@ -1,0 +1,3 @@
+By default every Windows virtual machine that you deploy in Azure from the marketplace will be deployed using US regional settings. So the timezone, time format, currency, keyboard will all be in EN-US.
+
+This will cover how to create an XML settings file that contains all of our regional settings and how to apply those regional settings to our Virtual Machines in Azure. To be able to achieve this we are going to need 2 things: an XML file containing our regional settings and a PowerShell script to apply the regional settings.
