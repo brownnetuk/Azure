@@ -1,0 +1,1 @@
+https://mscloud.be/azure/powershell/configure-regional-settings-and-windows-locales-on-azure-virtual-machines/
